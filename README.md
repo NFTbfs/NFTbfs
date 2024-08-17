@@ -2,7 +2,7 @@
 
 ## 👤 About Me
 
-I am a dedicated blockchain engineer with over 8 years of experience in developing, maintaining, and optimizing blockchain networks.
+I am a blockchain engineer with over 8 years of experience in developing, maintaining, and optimizing blockchain networks.
 My journey has led me to specialize in creating distributed ledger technologies (DLT) on platforms such as Ethereum, Hyperledger Fabric, Bitcoin Core, and Cosmos SDK. I take pride in architecting and managing multi-node distributed networks, deploying smart contracts with tools like Remix, Truffle Suite, and Hardhat, and building secure, private blockchain applications.
 My passion lies in enabling secure and efficient digital transactions by designing systems that safeguard cryptographic information against tampering and hacking. I have a knack for writing API endpoints and developing user-friendly web interfaces. My deep knowledge of cryptography, consensus algorithms, and distributed databases enables me to be a valuable contributor to any blockchain project.
 I am driven by the belief in blockchain’s unlimited potential, particularly for empowering millennials. This belief fuels my commitment to innovation and excellence in every project I undertake.
