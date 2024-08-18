@@ -1,7 +1,6 @@
-
-<div align="center" width="50" color="red">
+<div align="center" width="50">
     <h2><i> Welcome to my GitHub profile !</i></h2>
-
+</div>
 ##  About Me
 
 🔥With over 8 years of experience in the Software Industry, I possess a robust set of skills as a full-stack web developer and mobile app developer.
