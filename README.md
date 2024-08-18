@@ -3,9 +3,9 @@
 </div>
 
 <div align="left" width="50">
-<h2>With over 8 years of experience in the Software Industry, I possess a set of skills as a full-stack web developer, mobile app developer, and blockchain developer.</h2>
+<h2><i>With over 8 years of experience in the Software Industry, I possess a set of skills as a full-stack web developer, mobile app developer, and blockchain developer.</i></h2>
 
-🔥 I have a command of the following skills:
+🔥 My expertise includes:
 
 ✅ PHP: Laravel, Symfony, CodeIgniter
 
