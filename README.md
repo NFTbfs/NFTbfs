@@ -1,11 +1,11 @@
-<div align="center" width="50">
+<div align="left" width="50">
     <h2><i> The only thing we have to fear is fear itself ! </i></h2>
 </div>
 
-<div align="center" width="50">
+<div align="left" width="50">
 <h3>With over 8 years of experience in the Software Industry, I possess a set of skills as a full-stack web developer and mobile app developer.</h3>
 
-🔥 As a Full Stack developer, I have a strong command of the following skills:
+🔥 I have a command of the following skills:
 
 ✅ PHP Laravel, Symfony, CodeIgniter
 
