@@ -1,11 +1,18 @@
-# Welcome to my GitHub page 👋
+#👨‍💻 Welcome to my GitHub profile 👋
 
 ## 👤 About Me
 
-I am a blockchain engineer with over 8 years of experience in developing, maintaining, and optimizing blockchain networks.
-My journey has led me to specialize in creating distributed ledger technologies (DLT) on platforms such as Ethereum, Hyperledger Fabric, Bitcoin Core, and Cosmos SDK. I take pride in architecting and managing multi-node distributed networks, deploying smart contracts with tools like Remix, Truffle Suite, and Hardhat, and building secure, private blockchain applications.
-My passion lies in enabling secure and efficient digital transactions by designing systems that safeguard cryptographic information against tampering and hacking. I have a knack for writing API endpoints and developing user-friendly web interfaces. My deep knowledge of cryptography, consensus algorithms, and distributed databases enables me to be a valuable contributor to any blockchain project.
-I am driven by the belief in blockchain’s unlimited potential, particularly for empowering millennials. This belief fuels my commitment to innovation and excellence in every project I undertake.
+🔥With over 8 years of experience in the Software Industry, I possess a robust set of skills as a full-stack web developer and mobile app developer.
+🔥 As a Full Stack developer, I have a strong command of the following skills:
+✅ PHP Laravel, Symfony, CodeIgniter
+✅ JavaScript, Vue.JS, React.JS, Angular 2+, Node.JS
+✅ MySQL, NoSQL, PostgreSQL, MongoDB, Redis
+✅ Mobile app development using Flutter, Ionic, React Native
+✅ HTML5, CSS/SASS, Bootstrap, Jquery, TailWindCSS
+✅ REST APIs development & Integration, GraphQL API
+✅ Amazon Web Services include EC2, S3, RDS, ElasticCache, CloudWatch, AppSync, SQS, ECS, CDN, Amplify, Lambda, and DynamoDB.
+✅ DevOps tools like Git, Jenkins, Circle CI, GitLab CI/CD, Docker, Kubernetes, Selenium, AWS, GCP, Cpanel, Linux, Ubuntu, Azure, and SSL Installation.
+✅Project management tools like Slack, Jira, and Trello.
 
 
 
