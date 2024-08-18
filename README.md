@@ -1,9 +1,11 @@
 <div align="center" width="50">
     <h2><i> Welcome to my GitHub profile !</i></h2>
 </div>
-##  About Me
-
-🔥With over 8 years of experience in the Software Industry, I possess a robust set of skills as a full-stack web developer and mobile app developer.
+<div align="center" width="50">
+    <p>The only thing we have to fear is fear itself.</p>
+</div>
+<div align="center" width="50">
+<h3>With over 8 years of experience in the Software Industry, I possess a set of skills as a full-stack web developer and mobile app developer.</h3>
 
 🔥 As a Full Stack developer, I have a strong command of the following skills:
 
@@ -24,3 +26,4 @@
 ✅ DevOps tools like Git, Jenkins, Circle CI, GitLab CI/CD, Docker, Kubernetes, Selenium, AWS, GCP, Cpanel, Linux, Ubuntu, Azure, and SSL Installation.
 
 ✅Project management tools like Slack, Jira, and Trello.
+</div>
