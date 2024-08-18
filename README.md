@@ -29,7 +29,7 @@
 
 ✅ Blockchain Technologies:
 
-      - Smart Contract Development: Solidity, Ethereum, Hyperledger
+      - Smart Contract Development: Solidity, Rust, Ethereum, Hyperledger
 
       - Blockchain Platforms: Ethereum, Binance Smart Chain, Hyperledger Fabric
 
