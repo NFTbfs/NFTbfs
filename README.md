@@ -1,9 +1,7 @@
 <div align="center" width="50">
-    <h2><i> Welcome to my GitHub profile !</i></h2>
+    <h2><i> The only thing we have to fear is fear itself ! </i></h2>
 </div>
-<div align="center" width="50">
-    <p>The only thing we have to fear is fear itself.</p>
-</div>
+
 <div align="center" width="50">
 <h3>With over 8 years of experience in the Software Industry, I possess a set of skills as a full-stack web developer and mobile app developer.</h3>
 
