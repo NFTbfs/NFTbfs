@@ -1,6 +1,6 @@
-#👨‍💻 Welcome to my GitHub profile 👋
+##👨‍💻 Welcome to my GitHub profile 👋
 
-## 👤 About Me
+##  About Me
 
 🔥With over 8 years of experience in the Software Industry, I possess a robust set of skills as a full-stack web developer and mobile app developer.
 
