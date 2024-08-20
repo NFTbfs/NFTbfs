@@ -1,5 +1,5 @@
 <div align="left" width="50">
-    <h1><i> The only thing we have to fear is fear itself ! </i></h1>
+    <h1><i> Welcome to my profile ! </i></h1>
 </div>
 
 <div align="left" width="50">
