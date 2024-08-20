@@ -1,4 +1,4 @@
-<div align="left" width="50">
+<div align="center" width="50">
     <h1><i> Welcome to my profile ! </i></h1>
 </div>
 
