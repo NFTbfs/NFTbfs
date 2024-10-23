@@ -3,40 +3,27 @@
 </div>
 
 <div align="left" width="50">
-<h2><i>With over 8 years of experience in the Software Industry, I possess a set of skills as a full-stack web developer, mobile app developer, and blockchain developer.</i></h2>
+<h2><i>With over 7 years of experience in Artificial Intelligence and Machine Learning, I specialize in driving innovation through advanced AI and ML solutions.</i></h2>
 
 🔥 My expertise includes:
 
-✅ PHP: Laravel, Symfony, CodeIgniter
+✅ AI & ML Frameworks: TensorFlow, Keras, PyTorch, Scikit-learn
 
-✅ JavaScript: Vue.js, React.js, Angular 2+, Node.js
+✅ Programming Languages: Python, R, Java, C++, C#
 
-✅ Databases: MySQL, NoSQL, PostgreSQL, MongoDB, Redis
+✅ Machine Learning Techniques: Natural Language Processing (NLP), Neural Networks, CNNs, RNNs, Logistic Regression
 
-✅ Mobile App Development: Flutter, Ionic, React Native
+✅ Data Science & Analytics: Big Data Analysis, Predictive Modeling, Feature Engineering, Data Preprocessing
 
-✅ Frontend: HTML5, CSS/SASS, Bootstrap, jQuery, Tailwind CSS
+✅ AI Deployment & Optimization:
 
-✅ API Development & Integration: REST APIs, GraphQL API
+Model Deployment: AWS EC2, Docker, Google Cloud AI
 
-✅ Cloud & DevOps:
+Hyperparameter Tuning & Model Selection: Grid Search Optimization
 
-      - Amazon Web Services: EC2, S3, RDS, ElasticCache, CloudWatch, AppSync, SQS, ECS, CDN, Amplify, Lambda, DynamoDB
+✅ Advanced AI Solutions:
 
-      - DevOps Tools: Git, Jenkins, CircleCI, GitLab CI/CD, Docker, Kubernetes, Selenium, AWS, GCP, Cpanel, Linux, Ubuntu, Azure, SSL Installation
+NLP Tools: BERT, GPT, NLTK, OpenAI
 
-✅ Project Management Tools: Slack, Jira, Trello
-
-✅ Blockchain Technologies:
-
-      - Smart Contract Development: Solidity, Rust, Ethereum, Hyperledger
-
-      - Blockchain Platforms: Ethereum, Binance Smart Chain, Hyperledger Fabric
-
-      - Decentralized Applications (DApps): Web3.js, Truffle, Hardhat
-
-      - Cryptocurrency Wallet Integration: MetaMask, WalletConnect
-
-      - Token Standards: ERC-20, ERC-721, BEP-20
 
 </div>
